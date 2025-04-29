@@ -11,7 +11,7 @@ If you run a game studio or entertainment company feel free to modify this engin
 # My Markdown Content
 
 Here is a button created with HTML embedded in Markdown:
-<a href="https://example.com" target="_blank">
+<a href="javascript:void(0);" target="_blank">
     <button style="padding: 10px 20px; background-color: turquoise; border: none; color: white; font-size: 16px; border-radius: 5px;">
         Click Me!
     </button>
