@@ -7,7 +7,8 @@
 | **Latest Version** | 1.0.0 |
 | **Platform** | Windows |
 | **Programming Language** | C, C++ |
-| **Successor** | No successor |
+| **Successor** | Silver Tech |
+| **Successor Status** | No development |
 | **Predecessor** | No predecessor |
 
 
