@@ -2,16 +2,12 @@
 
 | Key Details | Information |
 |-------------|------------|
-| **Project Name** | [Your Project Name] |
+| **Project Name** | Sandbox Tech |
 | **License** | MIT |
-| **Repository** | [GitHub Link] |
-| **Latest Version** | [Version Number] |
-| **Platform** | [Supported Platforms] |
-| **Programming Language** | [Language Used] |
-| **Maintainer** | [Your Name] |
-| **Contributors** | [List of Contributors] |
-| **Release Date** | [YYYY-MM-DD] |
-| **Status** | [Active/Archived] |
+| **Latest Version** | 1.0.0 |
+| **Platform** | Windows |
+| **Programming Language** | C, C++ |
+
 
 ---
 
