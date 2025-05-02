@@ -7,6 +7,7 @@
 | **Latest Version** | 1.0.0 |
 | **Platform** | Windows |
 | **Programming Language** | C, C++ |
+| **Successor** | No successor |
 
 
 ---
