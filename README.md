@@ -2,7 +2,7 @@
 This is the github page for the Sandbox Tech fork of quakespasm
 
 # Warning
-This is a private page so it won't be public
+This project is licensed under the MIT License. So don't copy the engine and claim it as yours! This project is only for people who want to modify the engine!
 
 # For game studios
 If you run a game studio or entertainment company feel free to modify this engine for your needs  
