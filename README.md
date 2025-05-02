@@ -7,4 +7,5 @@ This project is licensed under the MIT License. So don't copy the engine and cla
 # For game studios
 If you run a game studio or entertainment company feel free to modify this engine for your needs  
 
-
+# Notice
+This project is under copyright just be aware of that!
