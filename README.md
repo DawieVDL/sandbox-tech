@@ -9,3 +9,4 @@ If you run a game studio or entertainment company feel free to modify this engin
 
 # Notice
 This project is under copyright just be aware of that!
+You are allowed to publish your modifications of this engine
